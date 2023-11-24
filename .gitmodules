@@ -1,0 +1,9 @@
+[submodule "my_first_landing_page"]
+	path = my_first_landing_page
+	url = git@github.com:niebereuen23/my_first_landing_page.git
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = git@github.com:niebereuen23/odin-recipes.git
+[submodule "git-test"]
+	path = git-test
+	url = git@github.com:niebereuen23/git-test.git
